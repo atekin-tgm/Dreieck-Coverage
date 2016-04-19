@@ -166,4 +166,5 @@ public class TestIstDreieck {
 		assertTrue(dreieck.istDreieck());
 	}
 	
+	
 }

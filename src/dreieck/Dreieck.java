@@ -139,4 +139,5 @@ public class Dreieck {
 	public void setSeite_c(int seite_c) {
 		this.seite_c = seite_c;
 	}
+	
 }
